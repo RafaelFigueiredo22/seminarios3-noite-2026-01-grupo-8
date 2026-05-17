@@ -25,10 +25,10 @@
 | Campo | Informação |
 | ------- | ----------- |
 | Nome da instituição | Tarso de Coimbra |
-| Endereço | |
+| Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas |
 | Nome do responsável | |
 | Cargo/Função | |
-| Telefone ou e-mail da instituição | |
+| Telefone ou e-mail da instituição | (35) 3697-2126 |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 

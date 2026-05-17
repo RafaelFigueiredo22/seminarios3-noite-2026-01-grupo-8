@@ -13,7 +13,7 @@
 Formação do grupo e brainstorming para a escolha do tema. Decidimos focar em acessibilidade para alunos surdos.
 
 **Quem participou:**
-odos (Manuel, João Negrini, Gabriel, Rafael).
+todos (Manuel, João Negrini, Gabriel, Rafael).
 
 **Decisões técnicas tomadas:**
 Escolha do nome "TranscreveAí" e definição do escopo inicial: transcrição de voz para texto via rede local.
@@ -25,15 +25,15 @@ Fazer um levantamento de requisitos e prototipagem
 
 ### Semana 03 a semana 6
 
-**O que foi feito: Levantamento detalhado de requisitos e criação da identidade visual.
+**O que foi feito:** Levantamento detalhado de requisitos e criação da identidade visual.
 
-**Quem participou:- Rafael (Requisitos) e Gabriel (UI/UX).
+**Quem participou:** Rafael (Requisitos) e Gabriel (UI/UX).
 
-**Atividades: Rafael realizou pesquisas sobre normas de acessibilidade. Gabriel desenvolveu o protótipo de alta fidelidade no Figma com foco em alto contraste.
+**Atividades:** Rafael realizou pesquisas sobre normas de acessibilidade. Gabriel desenvolveu o protótipo de alta fidelidade no Figma com foco em alto contraste.
 
-**Decisões técnicas tomadas: Optamos por utilizar o framework Spring Boot no backend pela robustez no tratamento de dados.
+**Decisões técnicas tomadas:** Optamos por utilizar o framework Spring Boot no backend pela robustez no tratamento de dados.
 
-**Próximos passos:**
+**Próximos passos:** Dar inicio a Arquitatura e Desenvolvimento do projeto
 
 ---
 

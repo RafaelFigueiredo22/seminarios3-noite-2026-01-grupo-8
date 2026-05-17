@@ -1,51 +1,37 @@
 # 05 — Diário de Bordo do Grupo
 
-> **Grupo:** *(preencher)*  
-> **Aplicação:** *(preencher)*
-
----
-
-> **Importante:** Mantenha este diário atualizado ao longo do semestre. Ele será a base para o cronograma do relatório de atividades no APC. Registre **todas** as atividades: reuniões com a comunidade, sessões de desenvolvimento, testes, decisões técnicas, etc.
+> Grupo 8
+> Plataforma de Legendas em Tempo Real
 
 ---
 
 ## Registro de Atividades
 
-### Semana 01 — ___/___/___ a ___/___/___
+### Semana 01 e Semana 2
 
 **O que foi feito:**
-*(Descrever as atividades realizadas nesta semana: desenvolvimento, reuniões, testes, etc.)*
+Formação do grupo e brainstorming para a escolha do tema. Decidimos focar em acessibilidade para alunos surdos.
 
 **Quem participou:**
-*(Listar integrantes envolvidos.)*
+odos (Manuel, João Negrini, Gabriel, Rafael).
 
 **Decisões técnicas tomadas:**
-*(Alguma decisão relevante sobre tecnologia, escopo, design, etc.?)*
+Escolha do nome "TranscreveAí" e definição do escopo inicial: transcrição de voz para texto via rede local.
 
 **Próximos passos:**
-*(O que precisa ser feito na próxima semana?)*
+Fazer um levantamento de requisitos e prototipagem
 
 ---
 
-### Semana 02 — ___/___/___ a ___/___/___
+### Semana 03 a semana 6
 
-**O que foi feito:**
+**O que foi feito: Levantamento detalhado de requisitos e criação da identidade visual.
 
-**Quem participou:**
+**Quem participou:- Rafael (Requisitos) e Gabriel (UI/UX).
 
-**Decisões técnicas tomadas:**
+**Atividades: Rafael realizou pesquisas sobre normas de acessibilidade. Gabriel desenvolveu o protótipo de alta fidelidade no Figma com foco em alto contraste.
 
-**Próximos passos:**
-
----
-
-### Semana 03 — ___/___/___ a ___/___/___
-
-**O que foi feito:**
-
-**Quem participou:**
-
-**Decisões técnicas tomadas:**
+**Decisões técnicas tomadas: Optamos por utilizar o framework Spring Boot no backend pela robustez no tratamento de dados.
 
 **Próximos passos:**
 

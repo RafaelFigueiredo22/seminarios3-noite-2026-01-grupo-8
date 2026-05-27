@@ -32,8 +32,8 @@
 - [x] Contato intermediário com a comunidade para validação
 - [x] MVP funcional concluído
 - [x] Testes realizados
-- [ ] Deploy em nuvem realizado (se aplicável)
-- [ ] Aplicação acessível pela Internet
+- [x] Deploy em nuvem realizado (se aplicável)
+- [x] Aplicação acessível pela Internet
 
 ## 📋 Etapa 4 — Entrega Presencial
 
